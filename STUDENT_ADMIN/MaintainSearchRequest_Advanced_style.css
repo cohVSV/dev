@@ -1,0 +1,21 @@
+/*PTAutocomplete Style @1-B64528AC*/
+#viewMaintainSearchRequests_SCHOOLNAME_choices {
+    position: absolute;
+}
+#viewMaintainSearchRequests_SCHOOLNAME_choices ul {
+    background-color: white;
+    border: 1px solid black;
+    border-top: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+}
+#viewMaintainSearchRequests_SCHOOLNAME_choices ul li.selected { background-color: #aaa;}
+#viewMaintainSearchRequests_SCHOOLNAME_choices li {
+    list-style-type: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 0;
+}
+/*End PTAutocomplete Style*/
+

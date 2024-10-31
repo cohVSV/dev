@@ -1,0 +1,21 @@
+/*PTAutocomplete Style @1-B3C0F58E*/
+#STUDENT_CARER_CONTACTSURNAME_choices {
+    position: absolute;
+}
+#STUDENT_CARER_CONTACTSURNAME_choices ul {
+    background-color: white;
+    border: 1px solid black;
+    border-top: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+}
+#STUDENT_CARER_CONTACTSURNAME_choices ul li.selected { background-color: #aaa;}
+#STUDENT_CARER_CONTACTSURNAME_choices li {
+    list-style-type: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 0;
+}
+/*End PTAutocomplete Style*/
+
